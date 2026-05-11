@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Maxime",
+        "role": "project owner",
+        "email": "maxime@gmail.com"
+    },
+    {
+        "name": "Roger",
+        "role": "project manager",
+        "email": "roger@gmail.com"
+    },
+    {
+        "name": "Christ",
+        "role": "business analyst",
+        "email": "roger@gmail.com"
+    },
+    {
+        "name": "Pacome",
+        "role": "tech lead",
+        "email": "roger@gmail.com"
+    }
+    
+]

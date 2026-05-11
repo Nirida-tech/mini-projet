@@ -1,8 +1,7 @@
 # Mini-projet
 
-A new Flutter project.
+Un nouveau projet Flutter/Dart.
 
-## Getting Started
 
 # Mini App Expedition
 

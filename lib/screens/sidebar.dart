@@ -69,7 +69,7 @@ class _SidebarState extends State<Sidebar> {
         Padding(
           padding: const EdgeInsets.all(8.0),
           child: Text(
-            "Nirida Expedition",
+            "Nirida Xpedition",
             style: TextStyle(
               color: AppColors.textLight,
               fontSize: 22,

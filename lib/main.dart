@@ -1,4 +1,4 @@
-import 'package:dashboard/screens/dashboard.dart';
+import 'package:dashboard/screens/sidebar.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(colorScheme: .fromSeed(seedColor: Colors.deepPurple)),
       debugShowCheckedModeBanner: false,
 
-      home: const Dashboard(),
+      home: const Sidebar(),
     );
   }
 }
